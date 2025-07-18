@@ -48,4 +48,5 @@ Thumbs.db
 
 # pnpm
 .pnpm-debug.log*
-.pnpm-store/ 
+.pnpm-store/
+pnpm-lock.yaml 
